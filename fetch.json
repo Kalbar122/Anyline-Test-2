@@ -1,0 +1,10 @@
+{
+    "io-anyline-cordova": {
+        "source": {
+            "type": "local",
+            "path": ".."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
